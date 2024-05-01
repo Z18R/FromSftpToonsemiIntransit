@@ -1,0 +1,34 @@
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.exe
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.deps.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.runtimeconfig.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.AssemblyInfo.cs
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.CopyComplete
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\refint\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove\SftponsemiFilemove\obj\Debug\net7.0\ref\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.exe
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.deps.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.runtimeconfig.json
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\bin\Debug\net7.0\SftponsemiFilemove.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\bin\Debug\net7.0\Renci.SshNet.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.AssemblyReference.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.AssemblyInfoInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.AssemblyInfo.cs
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.CoreCompileInputs.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.csproj.CopyComplete
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\refint\SftponsemiFilemove.dll
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.pdb
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\SftponsemiFilemove.genruntimeconfig.cache
+C:\Users\Ezer\Desktop\Program\C#\MVC #1\MVC RazerPage - Copy\SftponsemiFilemove Intransit\SftponsemiFilemove\obj\Debug\net7.0\ref\SftponsemiFilemove.dll
